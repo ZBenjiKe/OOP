@@ -1,2 +1,0 @@
-Project to create an UndoableStringBuilder class.
-The UndoableStringBuilder (USB) is an object type that is comprised of two objets - a StringBuilder which is updated according to the methods, and a Stack to store the previous versions of the USB, allowing for an "undo()" function.
